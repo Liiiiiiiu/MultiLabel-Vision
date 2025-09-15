@@ -196,7 +196,7 @@ For further issues, contact Brick with error logs.
 ## Contact
 - **Author**: Brick
 - **Company**: LinkDome
-- **Email**: [Add your email or contact method]
+- **Email**: ljx903010@gmail.com
 - **Date**: September 15, 2025
 
 Thank you for using the LinkDome Multi-Label Classification Framework!
